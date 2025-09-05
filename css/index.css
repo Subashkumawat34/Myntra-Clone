@@ -88,8 +88,7 @@ header {
 .banner_container {
   margin: 20px; /* adjust as needed */
   padding: 20px; /* adjust as needed */
-  width: calc(100% - 40px); /* subtract margin/padding to avoid scroll */
-  height: calc(100vh - 40px);
+  
   overflow: hidden;
   box-sizing: border-box; /* ensures padding doesn’t break layout */
 }
